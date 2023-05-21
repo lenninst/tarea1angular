@@ -1,0 +1,27 @@
+.mat-navbar{
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 0.7rem;
+}
+.login{
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+}
+.button-content{
+  display: flex;
+  flex-direction: row;
+  gap: 5px
+}
